@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/sbalraj1/Perf-Ad1.git/static/css/main.073c9b0a.css",
-    "main.js": "/sbalraj1/Perf-Ad1.git/static/js/main.cbf206c1.js",
-    "static/media/logo.svg": "/sbalraj1/Perf-Ad1.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/sbalraj1/Perf-Ad1.git/index.html",
-    "main.073c9b0a.css.map": "/sbalraj1/Perf-Ad1.git/static/css/main.073c9b0a.css.map",
-    "main.cbf206c1.js.map": "/sbalraj1/Perf-Ad1.git/static/js/main.cbf206c1.js.map"
+    "main.css": "/sbalraj1/perfadcoolbeans11.git/static/css/main.073c9b0a.css",
+    "main.js": "/sbalraj1/perfadcoolbeans11.git/static/js/main.6204025c.js",
+    "static/media/logo.svg": "/sbalraj1/perfadcoolbeans11.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sbalraj1/perfadcoolbeans11.git/index.html",
+    "main.073c9b0a.css.map": "/sbalraj1/perfadcoolbeans11.git/static/css/main.073c9b0a.css.map",
+    "main.6204025c.js.map": "/sbalraj1/perfadcoolbeans11.git/static/js/main.6204025c.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.cbf206c1.js"
+    "static/js/main.6204025c.js"
   ]
 }
